@@ -1,0 +1,140 @@
+#
+
+title{
+	font-size: 5em;
+	color:#89280f ;
+	text-align:center;
+	font-family: Critter;
+	margin bottom: 10px;
+}
+
+
+th{
+ 	height: 80%;
+ 	font-size: 50;
+ 	text-align: center;
+ }
+
+ td{
+ 	font-size:2em;
+ 	color:blue;
+ 	text-align: below;
+ 	font-family: Cottonwood;	
+ }
+
+
+nav{
+align-content: center;
+width: 100%;
+background-color:yellow;
+font-size: 2em;
+ 	color: green;
+ 	text-align: center;
+ 	font-family: Calibri;
+}
+
+
+
+
+a{
+	text-align: center;
+	font- size:25;
+	color:navy green;
+}
+
+footer{
+	font-family: Critter;
+	background-color:#4f8dd7 ;
+	height: 60%;
+	font-size: 1.3em;
+	text-align:center; 
+}
+h1{
+font-family: Critter;
+font-size: 2.5em;	
+text-align: center;
+color:#89280f ;
+}
+
+img{
+	width: 150px;
+	height: 100px;
+}
+.info{ width: 100px;
+height: 100px; }
+ 
+body{
+
+  background-image: url('fondo2.jpg');
+  background-size: cover;       
+  background-repeat: no-repeat; 
+  background-position: center;  
+}
+
+ table {
+ 	align-content: center;
+ 	width: 80%;  
+ 	height: 60%
+ 	background-color:#ed9859  ;
+ }
+
+ p{
+ 	font-family: Critter;
+font-size: 1.5em;
+text-align: center;	
+ } 
+ .logos{
+ 	width: 60px;
+ 	height: 60px;
+ }
+ 
+#pie{
+
+ 	font-size:2em;
+ 	color:blue;
+ 	text-align: below;
+ 	font-family: Cottonwood;
+
+font-size:2em;
+ 	color:red;
+ 	text-align: below;
+ 	font-family: Cottonwood;
+
+
+}
+
+#pie{
+  width: 300px;
+  height: 100px;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin: 100px auto 30px auto; /* espacio arriba y abajo */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: inside;
+  padding: 15px 0;
+}
+
+footer a {
+  color: #ccc;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+footer a: under {
+  color: #fff;
+}
+
+
+
+
+}
